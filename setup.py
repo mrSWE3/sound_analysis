@@ -5,5 +5,5 @@ setup(
     version='0.0.0',  # Replace with your package's version
     packages=find_packages(),
     include_package_data=True,
-    package_data={'DevOri': ['py.typed']},  # Replace 'your_package' with your actual package name
+    package_data={'sound_analysis': ['py.typed']},  # Replace 'your_package' with your actual package name
 )
